@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "hanozidis.site/static/css/main.3438266d.chunk.css",
+    "main.js": "hanozidis.site/static/js/main.ea459dfc.chunk.js",
+    "main.js.map": "hanozidis.site/static/js/main.ea459dfc.chunk.js.map",
+    "runtime-main.js": "hanozidis.site/static/js/runtime-main.6f96479a.js",
+    "runtime-main.js.map": "hanozidis.site/static/js/runtime-main.6f96479a.js.map",
+    "static/css/2.4121280a.chunk.css": "hanozidis.site/static/css/2.4121280a.chunk.css",
+    "static/js/2.c5ab5270.chunk.js": "hanozidis.site/static/js/2.c5ab5270.chunk.js",
+    "static/js/2.c5ab5270.chunk.js.map": "hanozidis.site/static/js/2.c5ab5270.chunk.js.map",
+    "index.html": "hanozidis.site/index.html",
+    "precache-manifest.6e05ea62a5159b77c96a4fd13fe5cc75.js": "hanozidis.site/precache-manifest.6e05ea62a5159b77c96a4fd13fe5cc75.js",
+    "service-worker.js": "hanozidis.site/service-worker.js",
+    "static/css/2.4121280a.chunk.css.map": "hanozidis.site/static/css/2.4121280a.chunk.css.map",
+    "static/css/main.3438266d.chunk.css.map": "hanozidis.site/static/css/main.3438266d.chunk.css.map",
+    "static/js/2.c5ab5270.chunk.js.LICENSE.txt": "hanozidis.site/static/js/2.c5ab5270.chunk.js.LICENSE.txt",
+    "static/media/Me.jpg": "hanozidis.site/static/media/Me.08b9fb29.jpg",
+    "static/media/stones.jpg": "hanozidis.site/static/media/stones.9ba7ab8b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f96479a.js",
+    "static/css/2.4121280a.chunk.css",
+    "static/js/2.c5ab5270.chunk.js",
+    "static/css/main.3438266d.chunk.css",
+    "static/js/main.ea459dfc.chunk.js"
+  ]
+}
