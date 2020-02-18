@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "hanozidis.site/precache-manifest.6e05ea62a5159b77c96a4fd13fe5cc75.js"
+  "hanozidis.site/precache-manifest.19098e6db465264a3168c8bbeec2857d.js"
 );
 
 self.addEventListener('message', (event) => {

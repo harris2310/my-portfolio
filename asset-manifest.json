@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "hanozidis.site/static/css/main.3438266d.chunk.css",
-    "main.js": "hanozidis.site/static/js/main.ea459dfc.chunk.js",
-    "main.js.map": "hanozidis.site/static/js/main.ea459dfc.chunk.js.map",
+    "main.js": "hanozidis.site/static/js/main.fd5d01e5.chunk.js",
+    "main.js.map": "hanozidis.site/static/js/main.fd5d01e5.chunk.js.map",
     "runtime-main.js": "hanozidis.site/static/js/runtime-main.6f96479a.js",
     "runtime-main.js.map": "hanozidis.site/static/js/runtime-main.6f96479a.js.map",
     "static/css/2.4121280a.chunk.css": "hanozidis.site/static/css/2.4121280a.chunk.css",
     "static/js/2.c5ab5270.chunk.js": "hanozidis.site/static/js/2.c5ab5270.chunk.js",
     "static/js/2.c5ab5270.chunk.js.map": "hanozidis.site/static/js/2.c5ab5270.chunk.js.map",
     "index.html": "hanozidis.site/index.html",
-    "precache-manifest.6e05ea62a5159b77c96a4fd13fe5cc75.js": "hanozidis.site/precache-manifest.6e05ea62a5159b77c96a4fd13fe5cc75.js",
+    "precache-manifest.19098e6db465264a3168c8bbeec2857d.js": "hanozidis.site/precache-manifest.19098e6db465264a3168c8bbeec2857d.js",
     "service-worker.js": "hanozidis.site/service-worker.js",
     "static/css/2.4121280a.chunk.css.map": "hanozidis.site/static/css/2.4121280a.chunk.css.map",
     "static/css/main.3438266d.chunk.css.map": "hanozidis.site/static/css/main.3438266d.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.4121280a.chunk.css",
     "static/js/2.c5ab5270.chunk.js",
     "static/css/main.3438266d.chunk.css",
-    "static/js/main.ea459dfc.chunk.js"
+    "static/js/main.fd5d01e5.chunk.js"
   ]
 }

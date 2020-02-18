@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1dd3277ec6a658d81cf73dbf076f13a5",
+    "revision": "c8e93d606fbe91b0bac8bc238658ba0b",
     "url": "hanozidis.site/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "hanozidis.site/static/css/2.4121280a.chunk.css"
   },
   {
-    "revision": "3cceee0204d0d6700c1d",
+    "revision": "421cb06c5d8d5296b0bb",
     "url": "hanozidis.site/static/css/main.3438266d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "hanozidis.site/static/js/2.c5ab5270.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3cceee0204d0d6700c1d",
-    "url": "hanozidis.site/static/js/main.ea459dfc.chunk.js"
+    "revision": "421cb06c5d8d5296b0bb",
+    "url": "hanozidis.site/static/js/main.fd5d01e5.chunk.js"
   },
   {
     "revision": "34fd372de9a0e9fd42da",
