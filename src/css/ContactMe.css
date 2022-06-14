@@ -1,0 +1,65 @@
+.bc {
+  text-align: center;
+  background-color:#252933;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bc h2 {
+  margin: auto;
+  padding: 50px;
+}
+
+.formLayout {
+  margin: auto;
+  width: 500px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+.smallT {
+  font-size: 12px;
+  padding: 10px;
+}
+
+.btn {
+  margin: 10px;
+}
+
+.imges {
+  display: inline-block;
+  margin: 10px;
+}
+
+.hr {
+  border: 1px grey solid;
+  width: 400px;
+  margin: auto;
+}
+
+.mg-bot {
+  margin-bottom: 50px;
+}
+
+.email-success {
+  color: white;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 800;
+  margin: 25px;
+}
+
+@media screen and (max-width: 500px) {
+  .formLayout {
+    margin: auto;
+    width: 300px;
+    padding: 30px;
+    margin-bottom: 30px;
+  }
+
+  .hr {
+    border: 1px grey solid;
+    width: 250px;
+    margin: auto;
+  }
+}

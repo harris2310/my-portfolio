@@ -1,0 +1,70 @@
+.aboutBc {
+  text-align: center;
+  padding: 30px;
+  background-color: white;
+  border-top: 1px grey solid;
+}
+
+.meImg img:first-child {
+  margin: 50px 0px;
+  height: 45vh;
+}
+
+.logos {
+  display: flex;
+}
+
+.cardFlex {
+  padding: 40px;
+  flex: 1;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.contImg {
+ margin: auto;
+ width: 100px
+}
+
+ .line {
+  padding-bottom: 30px;
+  margin: auto;
+  width: 400px;
+  border-bottom: 1px lightgrey solid;
+}
+
+@media screen and (max-width:500px) {
+  .line {
+    padding-bottom: 30px;
+    margin: auto;
+    width: 300px;
+    border-bottom: none;
+  }
+
+  .logos {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .contImg {
+    margin: auto;
+    width: 100px;
+  }
+
+  .cardFlex {
+    padding: 20px;
+    flex: 1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+  }
+
+  .aboutBc {
+    text-align: center;
+    padding: 10px;
+    background-color: white;
+    border-top: 1px grey solid;
+  }
+
+  .cardT {
+    font-size: 27px;
+  }
+}
